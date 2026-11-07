@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/sphinx-pretty-searchresults/commit/65fc8133f0fab70627c665e1ccfc6a5d45d16fc3",
       "git:hexsha": "65fc8133f0fab70627c665e1ccfc6a5d45d16fc3",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.3.5"
     },
     {
